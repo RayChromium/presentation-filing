@@ -3,7 +3,7 @@
 [Anime wiki](https://zh.moegirl.org/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9)
   
 ## Artsyle
-[Picture Collection](https://github.com/RayChromium/presentation-filing/tree/master/JoJo/pictures)
+[Picture Collection](https://github.com/RayChromium/presentation-filing/blob/master/JoJo/pictures/collect.md)
   
 [Official homepage](http://jojo.wikia.com/wiki/Main_Page)
 
