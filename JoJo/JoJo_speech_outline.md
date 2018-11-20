@@ -1,4 +1,5 @@
 # JoJo's Bizarre Adventure by 荒木飛呂彥（Araki Hirohiko）
+### 《JoJo的奇妙冒险》
 ## Chinese title
 [Anime wiki](https://zh.moegirl.org/JOJO%E7%9A%84%E5%A5%87%E5%A6%99%E5%86%92%E9%99%A9)
   
