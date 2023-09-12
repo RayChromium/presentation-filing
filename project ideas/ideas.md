@@ -33,3 +33,4 @@ I have been learning languages using **LingQ** for a while, it looks like this:
 
 ![long text](img/image-9.png)  
   
+[creating anki cards via api](https://github.com/FooSoft/anki-connect)
